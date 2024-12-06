@@ -1,7 +1,7 @@
 ## Theme for Seren & Artic Fuse 2 users
                   SmartPlay PopUp             
-![nextup up popup](https://github.com/Goldenfreddy0703/seren.theme.af2/assets/62456796/18f16391-aeb0-42d1-8b09-4096b59651cb
-)
+![nextup up popup](https://github.com/user-attachments/assets/ebdbd82a-6058-4049-b04d-83377d9ffee1)
+Edit: I Sadly do not have a debrid which is why this screenshot looks dumb.
 
 |                   Scraping                   |                   Source Select                   |
 |:--------------------------------------------:|:-------------------------------------------------:|
